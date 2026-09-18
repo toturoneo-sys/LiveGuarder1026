@@ -1,0 +1,7 @@
+token.json
+client_secret.json
+AI設定.txt
+__pycache__/
+build/
+dist/
+*.pyc
